@@ -1,1 +1,3 @@
-# 3dcubeprinting.github.io
+# 이메일 인증이 완료되었습니다!
+
+다시 게임으로 돌아가세요.
